@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal portfolio website, hosted at **[veer.is-a.dev](https://veer.is-a.dev)**.  
 It’s a space where I share a bit about myself, the projects I’ve built, and the technologies I enjoy working with.
-
+<!-- GitAds-Verify: AZ5GBLWQGJR69XFCP3Y85OLE68F7BBXR -->
 ---
 
 ## 🌐 About the Site
